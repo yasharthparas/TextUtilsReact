@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yasharthparas/TextUtilsReact/static/css/main.073c9b0a.css",
+    "main.js": "/yasharthparas/TextUtilsReact/static/js/main.28009c75.js",
+    "static/js/787.719ec76d.chunk.js": "/yasharthparas/TextUtilsReact/static/js/787.719ec76d.chunk.js",
+    "index.html": "/yasharthparas/TextUtilsReact/index.html",
+    "main.073c9b0a.css.map": "/yasharthparas/TextUtilsReact/static/css/main.073c9b0a.css.map",
+    "main.28009c75.js.map": "/yasharthparas/TextUtilsReact/static/js/main.28009c75.js.map",
+    "787.719ec76d.chunk.js.map": "/yasharthparas/TextUtilsReact/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.28009c75.js"
+  ]
+}
